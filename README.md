@@ -1,6 +1,6 @@
 # Hey, I'm Ricky Ardisana 👋
 
-**CS Junior @ UIC** · **Front-End Engineer** · **Design Enthusiast**
+**CS Junior @ UIC** - **Software Engineer** - **Design Enthusiast**
 
 I'm a computer science student at the University of Illinois Chicago with an Associate of Science degree from Elgin Community College - earned while still in high school. I'm drawn to the intersection of software and design, where great code meets meaningful user experience.
 
